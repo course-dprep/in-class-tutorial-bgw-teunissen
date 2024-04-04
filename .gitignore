@@ -1,7 +1,9 @@
 *.log
 *.aux
-*.Rhistory
+.Rhistory
 .RData
 **gen/
 **.Rout
 *.csv
+*.png
+*.pdf
